@@ -4,6 +4,10 @@ Este repositório é um guia de estudos estruturado para aprender Python Básico
 
 ---
 
+![Python Version](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![License MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
+---
 ## 🎯 1. Contexto e Objetivos
 
 ### Assunto de Interesse
